@@ -1,0 +1,1 @@
+In file dishes.txt there are 4 records

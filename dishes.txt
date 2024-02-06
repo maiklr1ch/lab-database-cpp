@@ -1,0 +1,4 @@
+Olive|1|39.99
+Borsh|0|50.00
+Onion soup|0|44.50
+Cake|2|18.50
